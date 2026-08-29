@@ -27,5 +27,5 @@ O projeto estará disponível em http://localhost:5173
 Neste projeto, utilizamos Inteligência Artificial (Google Gemini) para auxiliar na migração do nosso protótipo HTML puro para a estrutura de componentes funcionais do React. A IA nos ajudou a configurar o projeto com Vite, dividir as seções em componentes (Pai e Filho usando props) e implementar a lógica de armazenamento no localStorage e geração de número de protocolo usando a biblioteca Math, conforme as exigências da sprint.
 
 ## Links do Projeto
-* **Repositório GitHub:** [COLOQUE SEU LINK DO GITHUB AQUI]
-* **Deploy na Vercel:** [COLOQUE SEU LINK DA VERCEL AQUI]
+* **Repositório GitHub: https://github.com/1fpz/jovi-resenhaon-sprint3**
+* **Deploy na Vercel: https://jovi-resenhaon-sprint3.vercel.app**

@@ -1,12 +1,14 @@
-📸 Resenha ON — JOVI+FIAP CHALLENGE 2026
+**📸 RESENHA ON — JOVI + FIAP CHALLENGE 2026**
 
-Modo de câmera inteligente para captura, leitura e organização de conteúdos acadêmicos.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-Projeto desenvolvido para a Sprint 3 — Web Development com React, como parte do JOVI Camera Challenge 2026.
+📱 Um modo de câmera inteligente para capturar, ler e organizar
+conteúdos acadêmicos.
 
-O Resenha ON propõe uma experiência de câmera inovadora para smartphones JOVI, pensada especialmente para estudantes full-time. A solução utiliza OCR (Reconhecimento Óptico de Caracteres) para facilitar a captura e a organização rápida de conteúdos de aula.
+Desenvolvido para o JOVI + FIAP Challenge 2026.
 
-🔗 Links
+
+🔗 LINKS DO PROJETO
 
 🌐 Site online:
 https://jovi-resenhaon-sprint3.vercel.app
@@ -14,76 +16,285 @@ https://jovi-resenhaon-sprint3.vercel.app
 📦 Repositório:
 https://github.com/1fpz/jovi-resenhaon-sprint3
 
-✨ Sobre o projeto
 
-O Resenha ON foi desenvolvido com o objetivo de transformar a câmera do smartphone em uma ferramenta de apoio aos estudos.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🌟 SOBRE O PROJETO
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-A proposta é permitir que estudantes capturem conteúdos de aula de maneira rápida e prática, utilizando recursos de OCR para reconhecer informações presentes nas imagens e facilitar sua organização.
+O Resenha ON é uma solução desenvolvida para a Sprint 3 —
+Web Development com React, como parte do JOVI + FIAP Challenge 2026.
 
-🎯 Público-alvo
+A proposta é transformar a câmera do smartphone JOVI em uma
+ferramenta inteligente de apoio aos estudos, proporcionando uma
+experiência rápida, intuitiva e prática para estudantes.
+
+📸 Através da tecnologia de OCR (Reconhecimento Óptico de
+Caracteres), o projeto permite capturar conteúdos presentes em
+imagens e facilitar sua leitura, organização e utilização no
+dia a dia acadêmico.
+
+
+💡 NOSSA IDEIA
+
+Tornar o processo de registrar conteúdos de aula mais rápido,
+inteligente e acessível.
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🎯 OBJETIVO
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+O Resenha ON foi pensado para resolver uma situação comum na
+rotina de estudantes:
+
+"Como registrar e organizar rapidamente uma grande quantidade
+de conteúdo durante uma aula?"
+
+Nossa solução utiliza a câmera do smartphone como ponto de
+entrada para transformar informações visuais em conteúdo que
+pode ser posteriormente organizado e utilizado pelo estudante.
+
+
+🚀 A EXPERIÊNCIA BUSCA PROPORCIONAR:
+
+📷 Captura rápida de conteúdos
+🔎 Reconhecimento de texto através de OCR
+📝 Organização das informações
+⚡ Agilidade durante as aulas
+📱 Experiência otimizada para dispositivos móveis
+🎨 Interface simples e intuitiva
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+👥 PÚBLICO-ALVO
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 🎓 Estudantes universitários
-📚 Estudantes em período integral
-📝 Pessoas que precisam registrar conteúdos de aulas rapidamente
-📱 Usuários de smartphones JOVI
-🚀 Como executar o projeto localmente
-📋 Pré-requisitos
+   → Registrar conteúdos acadêmicos
 
-Antes de começar, certifique-se de ter o seguinte instalado:
+📚 Estudantes full-time
+   → Agilidade durante a rotina de estudos
 
-Node.js
-npm — instalado junto com o Node.js
-1. 📥 Clone o repositório
+📝 Alunos em sala de aula
+   → Capturar informações rapidamente
 
-No terminal, execute:
+📱 Usuários JOVI
+   → Aproveitar recursos inteligentes da câmera
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+✨ PRINCIPAIS FUNCIONALIDADES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📸 CAPTURA INTELIGENTE
+
+Utilização da câmera como principal ferramenta para registrar
+conteúdos apresentados durante as aulas.
+
+
+🔎 OCR — RECONHECIMENTO DE TEXTO
+
+Reconhecimento de informações presentes nas imagens, facilitando
+a transformação de conteúdo visual em informação utilizável.
+
+
+📝 ORGANIZAÇÃO
+
+Possibilidade de estruturar os conteúdos capturados de maneira
+mais prática para utilização posterior.
+
+
+📱 DESIGN RESPONSIVO
+
+Interface desenvolvida pensando em diferentes tamanhos de tela
+e principalmente na experiência mobile.
+
+
+⚡ EXPERIÊNCIA RÁPIDA
+
+Fluxo pensado para que o estudante consiga registrar um conteúdo
+sem interromper sua experiência durante a aula.
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🔗 LINKS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🌐 ACESSE O PROJETO ONLINE
+
+https://jovi-resenhaon-sprint3.vercel.app
+
+
+📦 REPOSITÓRIO NO GITHUB
+
+https://github.com/1fpz/jovi-resenhaon-sprint3
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🚀 COMO EXECUTAR O PROJETO
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Quer rodar o Resenha ON na sua máquina?
+
+É simples!
+
+
+📋 PRÉ-REQUISITOS
+
+Antes de começar, certifique-se de ter instalado:
+
+🟢 Node.js
+📦 npm — instalado junto com o Node.js
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+1️⃣ CLONE O REPOSITÓRIO
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Abra o terminal e execute:
 
 git clone https://github.com/1fpz/jovi-resenhaon-sprint3.git
 
 
-Ou, se preferir, faça o download do projeto em .ZIP através do botão Code → Download ZIP no GitHub.
+💡 ALTERNATIVA:
 
-2. 📂 Acesse a pasta do projeto
+Você também pode baixar o projeto em .ZIP através do botão:
+
+Code → Download ZIP
+
+No GitHub.
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2️⃣ ENTRE NA PASTA DO PROJETO
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Execute:
+
 cd jovi-resenhaon-sprint3
 
-3. 📦 Instale as dependências
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+3️⃣ INSTALE AS DEPENDÊNCIAS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 Execute:
 
 npm install
 
 
-Esse comando irá instalar todas as dependências necessárias para executar a aplicação.
+📦 Esse comando irá instalar todas as dependências necessárias
+para executar a aplicação.
 
-4. 💻 Inicie o servidor de desenvolvimento
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+4️⃣ INICIE O SERVIDOR
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Execute:
+
 npm run dev
 
 
-Após executar o comando, o Vite iniciará o servidor local de desenvolvimento.
+⚡ O Vite iniciará o servidor local de desenvolvimento.
 
-5. 🌐 Acesse a aplicação
 
-O terminal exibirá um endereço semelhante a:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+5️⃣ ACESSE A APLICAÇÃO
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Após executar o comando, o terminal exibirá um endereço
+semelhante a:
 
 http://localhost:5173
 
 
-Acesse o endereço no navegador para visualizar o Resenha ON funcionando localmente.
+🌐 Abra o endereço no navegador e pronto!
 
-🛠️ Tecnologias utilizadas
-Tecnologia	Utilização
-⚛️ React	Desenvolvimento da interface
-⚡ Vite	Ambiente de desenvolvimento e build
-🎨 HTML5 / CSS3	Estrutura e estilização
-📱 Design Responsivo	Adaptação para diferentes tamanhos de tela
-▲ Vercel	Deploy e hospedagem da aplicação
-☁️ Deploy
+🎉 Agora o Resenha ON está rodando localmente na sua máquina.
 
-A aplicação está hospedada na Vercel, com deploy automático integrado ao repositório GitHub.
 
-🌐 Acesse o projeto:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🛠️ TECNOLOGIAS UTILIZADAS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+⚛️ REACT
+Desenvolvimento da interface e componentes.
+
+⚡ VITE
+Ambiente de desenvolvimento e build.
+
+🟧 HTML5
+Estrutura da aplicação.
+
+🎨 CSS3
+Estilização e responsividade.
+
+📱 DESIGN RESPONSIVO
+Adaptação para diferentes dispositivos.
+
+▲ VERCEL
+Deploy e hospedagem da aplicação.
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+☁️ DEPLOY
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+O projeto está hospedado na Vercel, com integração ao GitHub
+para facilitar o processo de publicação e atualização da
+aplicação.
+
+
+🌐 PROJETO ONLINE:
+
 https://jovi-resenhaon-sprint3.vercel.app
 
-👥 Projeto
 
-Desenvolvido como parte da Sprint 3 de Web Development com React para o JOVI Camera Challenge 2026.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📂 REPOSITÓRIO
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-<p align="center"> 📸 <strong>Resenha ON</strong><br> <em>Capture. Organize. Aprenda.</em> </p>
+Todo o código-fonte do projeto está disponível publicamente
+no GitHub.
+
+
+📦 GitHub:
+
+https://github.com/1fpz/jovi-resenhaon-sprint3
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🎓 JOVI + FIAP CHALLENGE 2026
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Este projeto foi desenvolvido como parte da Sprint 3 —
+Web Development com React, dentro do JOVI + FIAP Challenge 2026.
+
+O desafio proporcionou a aplicação prática de conceitos de:
+
+⚛️ Desenvolvimento com React
+🎨 UI e experiência do usuário
+📱 Desenvolvimento responsivo
+🌐 Desenvolvimento Web
+🚀 Deploy de aplicações
+💡 Criação de soluções para problemas reais
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+                    📸 RESENHA ON
+
+                 Capture. Organize.
+                     Aprenda. 🚀
+
+
+              JOVI + FIAP CHALLENGE 2026
+
+
+                ⭐ Obrigado por visitar
+                    nosso projeto! ⭐
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━

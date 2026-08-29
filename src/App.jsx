@@ -11,36 +11,38 @@ function App() {
       <Header />
       <main id="topo">
         
-        {/* SEÇÃO: HERO (AGORA CENTRALIZADA E COM IMAGEM DE FUNDO NA CÂMERA) */}
-        <section className="hero" style={{ padding: '80px 0', background: 'linear-gradient(180deg, var(--paper) 0%, #E8EAF2 100%)' }}>
-          <div className="wrap" style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', textAlign: 'center', gap: '48px' }}>
+        {/* SEÇÃO: HERO (LADO A LADO NO PC, EMBAIXO NO CELULAR) */}
+        <section className="hero" style={{ background: 'linear-gradient(180deg, var(--paper) 0%, #E8EAF2 100%)' }}>
+          <div className="wrap hero">
             
-            <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', maxWidth: '800px' }}>
-              <p className="eyebrow" style={{ justifyContent: 'center' }}>Resenha ON · JOVI Camera Challenge 2026</p>
-              <h1 style={{ fontSize: 'clamp(2.5rem, 5vw, 4rem)', margin: '16px 0 24px' }}>
+            {/* LADO ESQUERDO: TEXTOS E BOTÕES */}
+            <div>
+              <p className="eyebrow">Resenha ON · JOVI Camera Challenge 2026</p>
+              <h1>
                 A câmera que <em style={{ color: 'var(--blue)' }}>lê, entende</em> e organiza a rotina do estudante.
               </h1>
-              <p style={{ maxWidth: '600px', fontSize: '1.15rem' }}>
+              <p>
                 Resenha ON é um modo de câmera para os smartphones JOVI que transforma quadros, slides e anotações em texto digital pesquisável, na mesma velocidade de uma foto.
               </p>
-              <div className="hero-ctas" style={{ justifyContent: 'center', marginTop: '16px' }}>
-                <a href="#solucao" className="btn" style={{ padding: '14px 28px', fontSize: '0.9rem' }}>Ver a solução</a>
-                <a href="#galeria" className="btn-ghost" style={{ padding: '14px 28px', fontSize: '0.9rem' }}>Ver protótipo</a>
+              <div className="hero-ctas">
+                <a href="#solucao" className="btn">Ver a solução</a>
+                <a href="#galeria" className="btn-ghost">Ver protótipo</a>
               </div>
             </div>
 
-            {/* VIEWFINDER COM IMAGEM DE ESTUDANTE E ANIMAÇÃO PULSANTE */}
+            {/* LADO DIREITO: VIEWFINDER COM IMAGEM DE ESTUDANTE E ANIMAÇÃO */}
             <div className="viewfinder" style={{ 
               width: '100%', 
-              maxWidth: '600px', 
-              aspectRatio: '16/9', 
-              backgroundImage: 'url(https://images.unsplash.com/photo-1517842645767-c639042777db?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80)', 
+              maxWidth: '420px', 
+              margin: '0 auto',
+              aspectRatio: '3/4', 
+              backgroundImage: 'url(https://images.unsplash.com/photo-1517842645767-c639042777db?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80)', 
               backgroundSize: 'cover', 
               backgroundPosition: 'center',
               boxShadow: '0 40px 80px rgba(11,14,26,0.3)'
             }}>
-              {/* Overlay escuro para destacar a animação */}
-              <div style={{ position: 'absolute', top: 0, left: 0, right: 0, bottom: 0, backgroundColor: 'rgba(11,14,26,0.5)' }}></div>
+              {/* Overlay escuro para destacar a animação do OCR */}
+              <div style={{ position: 'absolute', top: 0, left: 0, right: 0, bottom: 0, backgroundColor: 'rgba(11,14,26,0.4)' }}></div>
               
               <span className="vf-tag tl" style={{ zIndex: 2 }}>RESENHA ON</span>
               <div className="ring" style={{ position: 'relative', zIndex: 2 }}></div>
